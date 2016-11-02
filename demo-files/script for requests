@@ -1,0 +1,3 @@
+#!/bin/bash
+
+while true; do curl -XGET 127.0.0.1:PORT/ConsultingAgency/; sleep 0.1; done
